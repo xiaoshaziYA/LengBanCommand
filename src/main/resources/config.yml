@@ -1,0 +1,7 @@
+# 黑名单指令
+blacklisted-commands:
+  - "/op"
+  - "/ban"
+  - "/kick"
+  - "/plugins"
+  - "/tps"

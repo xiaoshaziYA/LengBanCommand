@@ -1,0 +1,7 @@
+name: LengBanCommand
+version: 1.0
+main: org.leng.LengBanCommand
+commands:
+  lbc:
+    description: 管理LengBanCommand设置
+    usage: /<command> <add|remove|list>
